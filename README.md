@@ -94,7 +94,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </div>
 </section>
 
-
+<br><br>
 <section>
     <h4> two images </h4> 
 <p> 2 Images </p>
