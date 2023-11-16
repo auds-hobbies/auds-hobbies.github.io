@@ -14,10 +14,11 @@
             background-color:cyan;
         }
 
-        .container {
-          display: flex;
-          align-items: center; 
-         padding-left: 10px;
+         .container {
+          display: grid;
+          grid-template-columns:20% 20% 20%;
+          align-items: center;
+        
         }
 
         img {
