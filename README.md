@@ -165,6 +165,11 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
         <li> Spatial Analysis Dashboard:   </li>
         <li> Client Analysis Dashboard:   </li>
     </ul>
+    <p>
+        <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
+        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
+        <a href="https://www.youtube.com" target="_blank"> YouTube</a>
+    </p>
       <div style="width: 350 px; float: left; height: 350 px;">
     <!-- Content for the blue div goes here -->
      <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
