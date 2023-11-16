@@ -126,8 +126,8 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </p>
     <div style="width: 350 px; float: left; height: 350 px;">
         <!-- Content for the brown div goes here -->
-         <img src="https://github.com/auds-hobbies/p3_manufacturing/commit/fcfb1849643a4419710993e589b95c0de90c05e5?raw=true"  width = "300"  />
-        <img src="https://github.com/auds-hobbies/p3_manufacturing/commit/fcfb1849643a4419710993e589b95c0de90c05e5?raw=true"  width = "350"  />
+         <img src="https://github.com/auds-hobbies/p3_manufacturing/blob/main/Screenshot%20manufacturing1.png"  width = "300"  />
+        <img src="https://github.com/auds-hobbies/p3_manufacturing/blob/main/Screenshot%20manufacturing1.png"  width = "350"  />
     </div> 
 </section> 
 
