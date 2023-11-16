@@ -7,7 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
      <style>
-       
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
 
         nav {
             background-color: #333;
@@ -63,6 +67,9 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <!-- Content for the brown div goes here -->
      <img src="your-image-url.jpg" alt="Image" style="width: 150px; height: 150px; object-fit: cover;">
     Click on image to see video of dashboard
+
+    <!-- Content for the brown div goes here -->
+     <img src="your-image-url.jpg" alt="Image2" style="width: 150px; height: 150px; object-fit: cover;">
 </div>
 
 
