@@ -32,26 +32,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 
 
 # REMOVE 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Two Divs Side by Side with Image</title>
-</head>
-<body>
 
-<div style="background-color: blue; width: 50%; float: left; height: 100vh;">
-    <!-- Content for the blue div goes here -->
-</div>
-
-<div style="background-color: brown; width: 50%; float: left; height: 100vh;">
-    <!-- Image inside the brown div -->
-    <img src="your-image-url.jpg" alt="Image" style="width: 2in; height: 2in; object-fit: cover;">
-</div>
-
-</body>
-</html>
 
 
 # END OF REMOVE
