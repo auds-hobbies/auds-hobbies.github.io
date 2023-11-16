@@ -138,6 +138,48 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
     <li> (Government): Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
 
+ 
+<br>
+<section>
+    <h4> Heart Risk Predictor </h4> 
+<p> A machine learning project with multi-purpose outcomes created for nurses/doctors, insurance companies, and ......: </p> 
+<ul>
+    <li> Heart Risk Predictor: prediction of heart risk of patients   </li>
+    <li> Spatial Analysis Dashboard:   </li>
+    <li> Client Analysis Dashboard:   </li>
+</ul>
+    
+<!-- Image 1 -->
+<div>
+    <div style="background-color: blue; width: 150 px; float: left; height: 150 px;">
+    <!-- IMAGE 11 -->
+    <img src="your-image-url.jpg" alt="Image11" style="width: 150 px; height: 150 px; object-fit: cover;">
+    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png " width="100"/> 
+    Image 11
+    </div>
+</div>
+<!-- Image 2 -->
+<div>
+    <div style="background-color: green; width: 150 px; float: left; height: 150 px;">
+    <!-- IMAGE 22 -->
+    <img src="your-image-url.jpg" alt="Image22" style="width: 150 px; height: 150 px; object-fit: cover;">
+    Image 22
+    </div>
+</div>
+<!-- Image 3 -->
+<div>
+    <div style="background-color: cyan; width: 150 px; float: left; height: 150 px;">
+    <!-- IMAGE 33 -->
+    <img src="your-image-url.jpg" alt="Image22" style="width: 150 px; height: 150 px; object-fit: cover;">
+    Image 33
+    </div>
+</div>
+
+</section>
+
+
+
+
 
 # REMOVE 
 
