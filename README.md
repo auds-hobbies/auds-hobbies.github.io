@@ -129,6 +129,16 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 
 
 
+<h1>DATA SCIENCE PORTFOLIO</h1>
+Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc: 
+<ul>
+    <li> (Telcom): Customer Analytics / Customer Segmentation   </li>
+    <li> (Health)[<i>web app</i>]: Heart Risk Analysis / Heart Risk Predictor / Spatial Analysis / Patient Segmentation   </li>
+    <li> (Government)[<i>web app/dashboard</i>]: Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
+    <li> (Government): Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
+</ul>
+
+
 # REMOVE 
 
 
