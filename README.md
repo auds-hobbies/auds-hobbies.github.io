@@ -152,10 +152,8 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 <!-- Image 1 -->
 <div>
     <div style="background-color: blue; width: 150 px; float: left; height: 150 px;">
-    <!-- IMAGE 11 -->
-    <img src="your-image-url.jpg" alt="Image11" style="width: 150 px; height: 150 px; object-fit: cover;">
-    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png " width="300"/> 
-    Image 11
+    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png " width="500"/> 
+    Heart risk below
     </div>
 </div>
 <!-- Image 2 -->
@@ -167,14 +165,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
     Image 22
     </div>
 </div>
-<!-- Image 3 -->
-<div>
-    <div style="background-color: cyan; width: 150 px; float: left; height: 150 px;">
-    <!-- IMAGE 33 -->
-    <img src="your-image-url.jpg" alt="Image22" style="width: 150 px; height: 150 px; object-fit: cover;">
-    Image 33
-    </div>
-</div>
+
 
 </section>
 
