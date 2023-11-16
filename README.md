@@ -14,6 +14,12 @@
             background-color:cyan;
         }
 
+        .container {
+          display: flex;
+          align-items: center; 
+         padding-left: 10px;
+        }
+
         img {
             max-width: 100%;
             height: auto;
