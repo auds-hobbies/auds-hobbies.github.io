@@ -204,6 +204,8 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 ![wikiExcel](https://raw.github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png)
 
     <img src="https://github.com/JulianChia/lowerboundSARSCOV2/blob/main/1_Figures/Figure_1_SG_COVID19_%20Epidemic_trends.png?raw=true">
+
+    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true">
 </div>
 </section> 
 
