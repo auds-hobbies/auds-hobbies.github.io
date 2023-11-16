@@ -74,7 +74,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
         <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
     </p>
-    <div class="container" style="width: 350 px; float: left; height: 350 px;">
+    <div class="container" >
         <!-- Content for the blue div goes here -->
           <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "350"  />  
           <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />  
