@@ -57,7 +57,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 <ul>
     <li> <b>(Health):</b> Health Risk Analysis   </li>  
     <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
-    <li> <b>(Manufacturing):</b> Manufacturing Process Analysis   </li>
+    <li> <b>(Manufacturing / Lean Process Improvement):</b> Manufacturing Process Analysis   </li>
     <li> <b>(Government):</b> Crime Analytics    </li>
     <li> <b>(Government):</b> Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
     <li> <b>(Government):</b> Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
