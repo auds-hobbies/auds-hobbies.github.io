@@ -50,7 +50,7 @@
     <body>
 <nav>
     <a href="#home">Home</a>
-    <a href="#about">YouTube</a>
+    <a href="https://www.youtube.com/@auds2000pro/videos">YouTube</a>
      <a href="#about">Twitter</a>
 </nav>
 
@@ -84,7 +84,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <p>
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub </a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com" target="_blank"> YouTube</a>
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
     </p>
     <div class="container" style="width: 350 px; float: left; height: 350 px;">
         <!-- Content for the blue div goes here -->
@@ -100,7 +100,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <p>
         <a href="https://github.com/auds-hobbies/p2_real_estate" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com" target="_blank"> YouTube</a>
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
     </p>
     <div style="width: 350 px; float: left; height: 350 px;">
         <!-- Content for the brown div goes here -->
@@ -116,7 +116,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <p>
         <a href="https://github.com/auds-hobbies/dashboard_crime_geo_visualization" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com" target="_blank"> YouTube</a>
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
     </p>
     <div style="width: 350 px; float: left; height: 350 px;">
         <!-- Content for the brown div goes here -->
@@ -132,7 +132,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <p>
         <a href="https://github.com/auds-hobbies/p2_real_estate" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com" target="_blank"> YouTube</a>
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
     </p>
     <div style="width: 350 px; float: left; height: 350 px;">
         <!-- Content for the brown div goes here -->
@@ -165,7 +165,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
     <p>
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com" target="_blank"> YouTube</a>
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
     </p>
       <div style="width: 350 px; float: left; height: 350 px;">
     <!-- Content for the blue div goes here -->
