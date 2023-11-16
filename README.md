@@ -78,17 +78,17 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 
 
 <section>
-    <h4> Real Estate Analysis - Power BI Dashboard </h4> 
-    <p>Energy Efficiency  - Power BI Dashboard </p>
+    <h4> Energy Efficiency - Power BI Dashboard </h4> 
+    <p>Energy Efficiency???  - Power BI Dashboard </p>
     <div>
-        <div style="background-color: blue; width: 150px; float: left; height: 150px;">
+        <div style="background-color: yellow; width: 150 px; float: left; height: 150 px;">
         <!-- Content for the blue div goes here -->
         Manufacturing Process Improvement Power BI Dashboard
         </div>
     
-        <div style="background-color: brown; width: 150px; float: left; height: 150px;">
+        <div style="background-color: red; width: 150 px; float: left; height: 150 px;">
         <!-- Content for the brown div goes here -->
-         <img src="your-image-url.jpg" alt="Image" style="width: 150px; height: 150px; object-fit: cover;">
+         <img src="your-image-url.jpg" alt="Image" style="width: 150 px; height: 150 px; object-fit: cover;">
         Click on image to see video of dashboard
         </div>
     </div>
