@@ -76,7 +76,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </div> 
 </section>
 
-
+<br>
 <section>
     <h4> Energy Efficiency - Power BI Dashboard </h4> 
     <p>Energy Efficiency???  - Power BI Dashboard </p>
@@ -100,25 +100,25 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 <p> 2 Images </p>
 <!-- Image 1 -->
 <div>
-    <div style="background-color: blue; width: 150px; float: left; height: 150px;">
+    <div style="background-color: blue; width: 150 px; float: left; height: 150 px;">
     <!-- IMAGE 11 -->
-    <img src="your-image-url.jpg" alt="Image11" style="width: 150px; height: 150px; object-fit: cover;">
+    <img src="your-image-url.jpg" alt="Image11" style="width: 150 px; height: 150 px; object-fit: cover;">
     Image 11
     </div>
 </div>
 <!-- Image 2 -->
 <div>
-    <div style="background-color: green; width: 150px; float: left; height: 150px;">
+    <div style="background-color: green; width: 150 px; float: left; height: 150 px;">
     <!-- IMAGE 22 -->
-    <img src="your-image-url.jpg" alt="Image22" style="width: 150px; height: 150px; object-fit: cover;">
+    <img src="your-image-url.jpg" alt="Image22" style="width: 150 px; height: 150 px; object-fit: cover;">
     Image 22
     </div>
 </div>
 <!-- Image 3 -->
 <div>
-    <div style="background-color: cyan; width: 150px; float: left; height: 150px;">
+    <div style="background-color: cyan; width: 150 px; float: left; height: 150 px;">
     <!-- IMAGE 33 -->
-    <img src="your-image-url.jpg" alt="Image22" style="width: 150px; height: 150px; object-fit: cover;">
+    <img src="your-image-url.jpg" alt="Image22" style="width: 150 px; height: 150 px; object-fit: cover;">
     Image 33
     </div>
 </div>
