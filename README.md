@@ -53,7 +53,7 @@ Hi there, Audry here. I'm passionate about leveraging data to drive informed dec
     Journey through my portfolio, where each project is an embodiment of a data-driven solution.
 
 <h1>DATA ANALYSIS PORTFOLIO</h1>
-Below is a list of my projects accomplished with tools such as Power BI, Excel, python etc: 
+Below is a list of select projects accomplished with tools such as, but not limited to Power BI, Excel, and python, to name a few: 
 <ul>
     <li> <b>(Health):</b> Health Risk Analysis   </li>  
     <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
