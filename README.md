@@ -99,7 +99,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </div> 
 </section> 
 
-<br><br><br>
+<br><br><br><br><br><br>
 <section> 
    <h3> Crime Analysis - Power BI Dashboard </h3>
     <p> Analysis on crime. </p>
