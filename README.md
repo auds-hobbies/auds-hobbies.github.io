@@ -169,9 +169,9 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 </section>
 
 
-
+<br>
 <section>
-    <h4> Heart Risk Predictor </h4> 
+    <h4> Heart Risk Predictor TEST2 </h4> 
 <p> A machine learning project with multi-purpose outcomes created for nurses/doctors, insurance companies, and ......: </p> 
 <ul>
     <li> Heart Risk Predictor: prediction of heart risk of patients   </li>
