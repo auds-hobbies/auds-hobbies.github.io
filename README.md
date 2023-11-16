@@ -96,7 +96,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </div>
 </section>
 
-<br><br><br><br>
+<br>
 <section> 
    <h3> Real Estate Analytics - Power BI Dashboard </h3>
     <p> Analysis on vitals taken from admitted patients, hospital restaurant/food reviews by patients. </p>
