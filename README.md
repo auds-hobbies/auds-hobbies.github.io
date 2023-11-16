@@ -18,6 +18,7 @@
             max-width: 100%;
             height: auto;
             display: block;
+            float: left;
             margin: 5px; /* Add margin for spacing */
         }
 
