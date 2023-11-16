@@ -17,6 +17,7 @@
         img {
             max-width: 100%;
             height: auto;
+            align_items: center;
             display: block;
             float: left;
             width: 33.33%;
@@ -87,6 +88,13 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20real%20estate1.png" alt="Mountains" style="width:100%">
   </div>
 </div>
+
+# remove 
+<div class="container">
+      <div class="image"> <img src="https://i.pinimg.com/736x/fb/14/36/fb14367fee180889b66e95d3a0659a4a.jpg" alt="This is my image." height="850px"/> </div> 
+      <div class="image"> <img src="https://i.pinimg.com/564x/30/33/4c/30334cb60ebcb05da34f6fc9bd2a9d8e.jpg" alt="This is my second image." height="850px"/> </div> 
+     <div class="image"> <img src="https://i.pinimg.com/564x/af/e3/eb/afe3eb181af33e1af29ec78448631382.jpg" alt="My third image." height="850px"/> </div> 
+    </div>
 
 <br>
 <section>
