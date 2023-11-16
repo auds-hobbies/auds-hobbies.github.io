@@ -130,7 +130,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </div> 
 </section> 
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <h1>DATA SCIENCE PORTFOLIO</h1>
 Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc: 
 <ul>
