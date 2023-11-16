@@ -64,7 +64,10 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 <br>
 <section>
     <h3> Health Risk Analysis - Power BI Dashboard </h3>
-    <p> To be completed...... </p>
+    <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients. 
+        <a href="https://www.youtube.com" target="_blank"> YouTube link</a>
+         <a href="https://www.youtube.com" target="_blank"> Twitter link</a>
+    </p>
     <div style="background-color: blue; width: 150 px; float: left; height: 150 px;">
     <!-- Content for the blue div goes here -->
      <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
