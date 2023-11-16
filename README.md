@@ -48,7 +48,7 @@ Hi there, Audry here. I'm passionate about leveraging data to drive informed dec
 <ul>
     <li> Data Science </li>
     <li> Data Analysis </li>
-
+</ul>
     Journey through my portfolio, where each projects is an embodiment of a data-driven solution.
 
 <h1>DATA ANALYSIS PORTFOLIO</h1>
