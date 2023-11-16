@@ -65,8 +65,9 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 <section>
     <h3> Health Risk Analysis - Power BI Dashboard </h3>
     <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients. 
+        <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub page </a>
+        <a href="https://www.youtube.com" target="_blank"> Twitter link</a>
         <a href="https://www.youtube.com" target="_blank"> YouTube link</a>
-         <a href="https://www.youtube.com" target="_blank"> Twitter link</a>
     </p>
     <div style="background-color: blue; width: 150 px; float: left; height: 150 px;">
     <!-- Content for the blue div goes here -->
@@ -79,8 +80,9 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 <section> 
    <h3> Real Estate Analytics - Power BI Dashboard </h3>
     <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients. 
+        <a href="https://github.com/auds-hobbies/p2_real_estate" target="_blank"> GitHub page </a>
+        <a href="https://www.youtube.com" target="_blank"> Twitter link</a>
         <a href="https://www.youtube.com" target="_blank"> YouTube link</a>
-         <a href="https://www.youtube.com" target="_blank"> Twitter link</a>
     </p>
     <div style="background-color: brown; width: 150 px; float: left; height: 150 px;">
         <!-- Content for the brown div goes here -->
