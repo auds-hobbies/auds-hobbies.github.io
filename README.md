@@ -83,7 +83,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <div>
         <div style="background-color: yellow; width: 150 px; float: left; height: 150 px;">
         <!-- Content for the blue div goes here -->
-        Manufacturing Process Improvement Power BI Dashboard
+        Manufacturing II
         </div>
     
         <div style="background-color: red; width: 150 px; float: left; height: 150 px;">
