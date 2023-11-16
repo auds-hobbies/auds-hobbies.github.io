@@ -65,7 +65,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 
 
 
-<br>
+<br><br><br>
 <section>
     <h3> Health Risk Analysis - Power BI Dashboard </h3>
     <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients.</p>
@@ -81,7 +81,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </div>
 </section>
 
-<br>
+<br><br><br>
 <section> 
    <h3> Real Estate Analytics - Power BI Dashboard </h3>
     <p> Analysis on vitals taken from admitted patients, hospital restaurant/food reviews by patients. </p>
@@ -97,7 +97,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </div> 
 </section> 
 
-<br><br>
+<br><br><br>
 <section> 
    <h3> Crime Analysis - Power BI Dashboard </h3>
     <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients. </p>
@@ -113,7 +113,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </div> 
 </section>
 
-<br>
+<br><br><br>
 <section> 
    <h3> Real Estate Analytics - Power BI Dashboard </h3>
     <p> Analysis on vitals taken from admitted patients, hospital restaurant/food reviews by patients. </p>
@@ -130,7 +130,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 </section> 
 
 
-<br><br>
+<br><br><br><br>
 <h1>DATA SCIENCE PORTFOLIO</h1>
 Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc: 
 <ul>
