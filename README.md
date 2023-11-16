@@ -14,6 +14,13 @@
             background-color:cyan;
         }
 
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 5px; /* Add margin for spacing */
+        }
+
         nav {
             background-color: #333;
             overflow: hidden;
@@ -76,7 +83,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </div>
 </section>
 
-<br><br>
+<br><br><br><br>
 <section> 
    <h3> Real Estate Analytics - Power BI Dashboard </h3>
     <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients. 
