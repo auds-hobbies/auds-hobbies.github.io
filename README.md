@@ -98,6 +98,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 <section>
     <h4> two images </h4> 
 <p> 2 Images </p>
+<!-- Image 1 -->
 <div>
     <div style="background-color: blue; width: 150px; float: left; height: 150px;">
     <!-- IMAGE 11 -->
@@ -105,7 +106,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     Image 11
     </div>
 </div>
-
+<!-- Image 2 -->
 <div>
     <div style="background-color: green; width: 150px; float: left; height: 150px;">
     <!-- IMAGE 22 -->
@@ -113,7 +114,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     Image 22
     </div>
 </div>
-
+<!-- Image 3 -->
 <div>
     <div style="background-color: cyan; width: 150px; float: left; height: 150px;">
     <!-- IMAGE 33 -->
