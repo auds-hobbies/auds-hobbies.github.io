@@ -86,7 +86,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 <br><br><br>
 <section> 
    <h3> Real Estate Analytics - Power BI Dashboard </h3>
-    <p> Analysis on vitals taken from admitted patients, hospital restaurant/food reviews by patients. </p>
+    <p> Analysis on property data.</p>
     <p>
         <a href="https://github.com/auds-hobbies/p2_real_estate" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
@@ -102,7 +102,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 <br><br><br>
 <section> 
    <h3> Crime Analysis - Power BI Dashboard </h3>
-    <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients. </p>
+    <p> Analysis on crime. </p>
     <p>
         <a href="https://github.com/auds-hobbies/dashboard_crime_geo_visualization" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
@@ -114,22 +114,6 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
         <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/Screenshot%20crime%20analytics2.png?raw=true"  width = "350"  />
     </div> 
 </section>
-
-<br><br><br>
-<section> 
-   <h3> Real Estate Analytics - Power BI Dashboard </h3>
-    <p> Analysis on vitals taken from admitted patients, hospital restaurant/food reviews by patients. </p>
-    <p>
-        <a href="https://github.com/auds-hobbies/p2_real_estate" target="_blank"> GitHub</a>,
-        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
-    </p>
-    <div style="width: 350 px; float: left; height: 350 px;">
-        <!-- Content for the brown div goes here -->
-         <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate1.png?raw=true"  width = "300"  />
-        <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate2.png?raw=true"  width = "350"  />
-    </div> 
-</section> 
 
 
 <br><br><br><br>
