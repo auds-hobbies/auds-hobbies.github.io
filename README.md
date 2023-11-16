@@ -23,7 +23,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <li> (Government): Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>i>  </li>
 </ul>
 
-#### Manufacturing Analysis - Power BI Dashboard
+### Manufacturing Analysis - Power BI Dashboard
 <p> To be completed...... </p>
 <div style="background-color: blue; width: 50px; float: left; height: 50px;">
     <!-- Content for the blue div goes here -->
