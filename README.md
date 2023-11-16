@@ -95,13 +95,13 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <div style="background-color: blue; width: 150px; float: left; height: 150px;">
     <!-- Content for the blue div goes here -->
     <img src="your-image-url.jpg" alt="Image11" style="width: 150px; height: 150px; object-fit: cover;">
-    Manufacturing Process Improvement Power BI Dashboard
+    Image 11
     </div>
 
     <div style="background-color: brown; width: 150px; float: left; height: 150px;">
     <!-- Content for the brown div goes here -->
      <img src="your-image-url.jpg" alt="Image22" style="width: 150px; height: 150px; object-fit: cover;">
-    Click on image to see video of dashboard
+    Image 22
     </div>
 </div>
 
