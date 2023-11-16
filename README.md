@@ -2,10 +2,10 @@
 
 <html lang="en" dir="ltr">
     <head>
-        <title> My Portfolio </title>
+        
         <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <title> My Portfolio </title>
      <style>
         body {
             font-family: Arial, sans-serif;
