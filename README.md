@@ -188,7 +188,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 </div>
 <!-- Image 2 -->
 <div>
-    <div style="background-color: green; width: 150 px; float: left; height: 150 px;">
+    <div style="background-color: green; width: 250 px; float: left; height: 550 px;">
     <!-- IMAGE 22 -->
     
          <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png" style="width: 150 px; height: 150 px; object-fit: cover;"> 
