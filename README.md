@@ -7,20 +7,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title> My Portfolio </title>
      <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 5;
-            background-color:cyan;
-        }
+                body {
+                    font-family: Arial, sans-serif;
+                    margin: 0;
+                    padding: 0;
+                }
 
-         .container {
-          display: grid;
-          grid-template-columns:20% 20% 20%;
-          align-items: center;
+                .container {
+                  display: grid;
+                  grid-template-columns:20% 20% 20%;
+                  align-items: center;
+                
+                }
         
-        }
-
+                nav {
+                    background-color: #333;
+                    overflow: hidden;
+                }
+        
+                nav a {
+                    float: left;
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    padding: 14px 16px;
+                    text-decoration: none;
+                }
+        
+                nav a:hover {
+                    background-color: #ddd;
+                    color: black;
+                }
+     
         img {
             max-width: 100%;
             height: auto;
@@ -30,24 +48,7 @@
 
         }
 
-        nav {
-            background-color: #333;
-            overflow: hidden;
-        }
-
-        nav a {
-            float: left;
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-
-        nav a:hover {
-            background-color: #ddd;
-            color: black;
-        }
+    
     </style>
     </head>
     <body>
@@ -158,7 +159,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
  
 <br>
 <section>
-    <h4> Heart Risk Predictor </h4> 
+    <h3> Heart Risk Predictor </h3> 
     <p> A machine learning project with multi-purpose outcomes created for nurses/doctors, insurance companies, and ......: </p> 
     <ul>
         <li> Heart Risk Predictor: prediction of heart risk of patients   </li>
