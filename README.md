@@ -61,6 +61,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <li> <b>(Government):</b> Crime Analytics    </li>
     <li> <b>(Government):</b> Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
     <li> <b>(Government):</b> Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
+    <li> <b>(Manufacturing / Semiconductor):</b> Asset data (parts) analysis - analysis on parts data (asset data) to determine bottlenecks in order fulfillment process. <i>Not available for public consumption due to NDA </i>  </li>
     <li> <b>(Manufacturing / Automotive):</b> Metadata analysis - analysis of parts data (asset data) <i>Not available for public consumption due to NDA </i>  </li>
     <li> <b>(Energy / Utility / Asset Data Management):</b> Metadata analysis - analysis of asset data for critical data identification <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
