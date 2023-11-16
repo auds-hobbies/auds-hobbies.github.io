@@ -36,13 +36,7 @@
                     color: black;
                 }
      
-        img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            float: left;
-            width: 33.33%;
-        }
+       
     </style>
     </head>
     <body>
