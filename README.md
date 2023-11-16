@@ -69,6 +69,19 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <li> (Government): Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
 
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20real%20estate2%20sales%20vol%20per%20yr.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20real%20estate1.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20real%20estate1.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 <br>
 <section>
     <h3> Health Risk Analysis - Power BI Dashboard </h3>
