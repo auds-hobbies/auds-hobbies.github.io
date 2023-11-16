@@ -195,6 +195,10 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
     Image 22
     </div>
 </div>
+<div>
+    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png" width="300"/> 
+    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png" width="200"/> 
+</div>
 
 </section> 
 
