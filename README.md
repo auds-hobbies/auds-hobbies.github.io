@@ -79,24 +79,6 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 </ul>
 
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20real%20estate2%20sales%20vol%20per%20yr.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20real%20estate1.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20real%20estate1.png" alt="Mountains" style="width:100%">
-  </div>
-</div>
-
-# remove 
-<div class="container">
-      <div class="image"> <img src="https://i.pinimg.com/736x/fb/14/36/fb14367fee180889b66e95d3a0659a4a.jpg" alt="This is my image." height="150px"/> </div> 
-      <div class="image"> <img src="https://i.pinimg.com/564x/30/33/4c/30334cb60ebcb05da34f6fc9bd2a9d8e.jpg" alt="This is my second image." height="150px"/> </div> 
-     <div class="image"> <img src="https://i.pinimg.com/564x/af/e3/eb/afe3eb181af33e1af29ec78448631382.jpg" alt="My third image." height="150px"/> </div> 
-    </div>
 
 <br>
 <section>
@@ -107,7 +89,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
         <a href="https://www.youtube.com" target="_blank"> YouTube</a>
     </p>
-    <div style="background-color: blue; width: 150 px; float: left; height: 150 px;">
+    <div style="background-color: blue; width: 350 px; float: left; height: 350 px;">
     <!-- Content for the blue div goes here -->
      <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
     <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />
