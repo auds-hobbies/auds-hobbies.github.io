@@ -206,7 +206,9 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
     <img src="https://github.com/JulianChia/lowerboundSARSCOV2/blob/main/1_Figures/Figure_1_SG_COVID19_%20Epidemic_trends.png?raw=true">
 
     <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  style="background-color: green; width: 250 px; float: left; height: 250 px;">
+    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "250"  />
     <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "250"  />
+
 
 
 </div>
