@@ -116,7 +116,7 @@ Below is a list of select projects accomplished with tools such as, but not limi
     </div> 
 </section>
 
-<br><br><br>
+<br><br><br><br><br><br>
 <section> 
    <h3> Lean Manufacturing (Process Improvement) - Power BI Dashboard </h3>
     <p> Analysis on manufacturing process for improvement purposes. </p>
