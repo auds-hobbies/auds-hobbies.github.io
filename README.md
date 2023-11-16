@@ -84,7 +84,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </p>
     <div style="background-color: brown; width: 150 px; float: left; height: 150 px;">
         <!-- Content for the brown div goes here -->
-         <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate2.png?raw=true"  width = "300"  />
+         <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate1.png?raw=true"  width = "300"  />
         <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate2.png?raw=true"  width = "350"  />
     </div> 
 </section> 
