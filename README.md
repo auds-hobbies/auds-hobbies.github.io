@@ -30,9 +30,11 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     Manufacturing Process Improvement Power BI Dashboard
 </div>
 
+### Crime Analysis - Power BI Dashboard
+<p> To be completed...... </p>
 <div style="background-color: brown; width: 50%; float: left; height: 100vh;">
     <!-- Content for the brown div goes here -->
-     <img src="your-image-url.jpg" alt="Image" style="width: 2in; height: 2in; object-fit: cover;">
+     <img src="your-image-url.jpg" alt="Image" style="width: 50px; height: 50px; object-fit: cover;">
     Click on image to see video of dashboard
 </div>
 
