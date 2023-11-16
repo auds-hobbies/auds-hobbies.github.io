@@ -42,10 +42,14 @@
 </nav>
 
 
-# auds-hobbies.github.io
-github webpage
-# MY DATA ANALYSIS & DATA SCIENCE PORTFOLIO
 
+# MY DATA ANALYSIS & DATA SCIENCE PORTFOLIO
+Hi there, Audry here. I'm passionate about leveraging data to drive informed decisions. I have organized my portfolio into two main categories:
+<ul>
+    <li> Data Science </li>
+    <li> Data Analysis </li>
+
+    Journey through my portfolio, where each projects is an embodiment of a data-driven solution.
 
 <h1>DATA ANALYSIS PORTFOLIO</h1>
 Below is a list of my projects accomplished with tools such as Power BI, Excel, python etc: 
