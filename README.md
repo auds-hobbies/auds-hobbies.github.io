@@ -118,7 +118,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 <br><br><br>
 <section> 
    <h3> Lean Manufacturing (Process Improvement) - Power BI Dashboard </h3>
-    <p> Analysis on vitals taken from admitted patients, hospital restaurant/food reviews by patients. </p>
+    <p> Analysis on manufacturing process for improvement purposes. </p>
     <p>
         <a href="https://github.com/auds-hobbies/p2_real_estate" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
@@ -127,7 +127,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <div style="width: 350 px; float: left; height: 350 px;">
         <!-- Content for the brown div goes here -->
          <img src="https://github.com/auds-hobbies/p3_manufacturing/blob/main/Screenshot%20manufacturing1.png"  width = "300"  />
-        <img src="https://github.com/auds-hobbies/p3_manufacturing/blob/main/Screenshot%20manufacturing1.png"  width = "350"  />
+        
     </div> 
 </section> 
 
