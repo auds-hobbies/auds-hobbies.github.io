@@ -77,6 +77,17 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 
 <br><br>
 <section> 
+   <h3> Real Estate Analytics - Power BI Dashboard </h3>
+    <p> To be completed...... </p>
+    <div style="background-color: brown; width: 150 px; float: left; height: 150 px;">
+        <!-- Content for the brown div goes here -->
+         <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
+        <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />
+    </div> 
+</section> 
+
+<br><br>
+<section> 
    <h3> Crime Analysis - Power BI Dashboard </h3>
     <p> To be completed...... </p>
     <div style="background-color: brown; width: 150 px; float: left; height: 150 px;">
