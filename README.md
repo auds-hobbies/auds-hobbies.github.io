@@ -98,15 +98,16 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <img src="your-image-url.jpg" alt="Image11" style="width: 150px; height: 150px; object-fit: cover;">
     Image 11
     </div>
+</div>
 
+<div>
     <div style="background-color: blue; width: 150px; float: left; height: 150px;">
     <!-- IMAGE 22 -->
     <img src="your-image-url.jpg" alt="Image22" style="width: 150px; height: 150px; object-fit: cover;">
     Image 22
     </div>
-
-    
 </div>
+
 </section>
 
 
