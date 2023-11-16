@@ -115,6 +115,21 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </div> 
 </section>
 
+<br><br><br>
+<section> 
+   <h3> Lean Manufacturing (Process Improvement) - Power BI Dashboard </h3>
+    <p> Analysis on vitals taken from admitted patients, hospital restaurant/food reviews by patients. </p>
+    <p>
+        <a href="https://github.com/auds-hobbies/p2_real_estate" target="_blank"> GitHub</a>,
+        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
+    </p>
+    <div style="width: 350 px; float: left; height: 350 px;">
+        <!-- Content for the brown div goes here -->
+         <img src="https://github.com/auds-hobbies/p3_manufacturing/commit/fcfb1849643a4419710993e589b95c0de90c05e5?raw=true"  width = "300"  />
+        <img src="https://github.com/auds-hobbies/p3_manufacturing/commit/fcfb1849643a4419710993e589b95c0de90c05e5?raw=true"  width = "350"  />
+    </div> 
+</section> 
 
 <br><br><br><br>
 <h1>DATA SCIENCE PORTFOLIO</h1>
