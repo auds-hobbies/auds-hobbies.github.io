@@ -55,12 +55,12 @@ Hi there, Audry here. I'm passionate about leveraging data to drive informed dec
 <h1>DATA ANALYSIS PORTFOLIO</h1>
 Below is a list of my projects accomplished with tools such as Power BI, Excel, python etc: 
 <ul>
-    <li> (Health): Health Risk Analysis   </li>  
-    <li> (Real Estate): Real Estate Analysis   </li>  
-    <li> (Manufacturing): Manufacturing Process Analysis   </li>
-    <li> (Government): Crime Analytics    </li>
-    <li> (Government): Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
-    <li> (Government): Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
+    <li> <b>(Health):</b> Health Risk Analysis   </li>  
+    <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
+    <li> <b>(Manufacturing):</b> Manufacturing Process Analysis   </li>
+    <li> <b>(Government):</b> Crime Analytics    </li>
+    <li> <b>(Government):</b> Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
+    <li> <b>(Government):</b> Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
 
 
@@ -134,10 +134,10 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 <h1>DATA SCIENCE PORTFOLIO</h1>
 Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc: 
 <ul>
-    <li> (Telcom): Customer Analytics / Customer Segmentation   </li>
-    <li> (Health)[<i>web app</i>]: Heart Risk Analysis / Heart Risk Predictor / Spatial Analysis / Patient Segmentation   </li>
-    <li> (Government)[<i>web app/dashboard</i>]: Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
-    <li> (Government): Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
+    <li> <b>(Telcom):</b> Customer Analytics / Customer Segmentation   </li>
+    <li> <b>(Health)[<i>web app</i>]:</b> Heart Risk Analysis / Heart Risk Predictor / Spatial Analysis / Patient Segmentation   </li>
+    <li> <b>(Government)[<i>web app/dashboard</i>]:</b> Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
+    <li> <b>(Government):</b> Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
 
  
