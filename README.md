@@ -63,32 +63,36 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     </div>
 </section>
 
-<h3> Crime Analysis - Power BI Dashboard </h3>
-<p> To be completed...... </p>
-<div style="background-color: brown; width: 150px; float: left; height: 150px;">
-    <!-- Content for the brown div goes here -->
-     <img src="your-image-url.jpg" alt="Image" style="width: 150px; height: 150px; object-fit: cover;">
-    Click on image to see video of dashboard
+<section> 
+   <h3> Crime Analysis - Power BI Dashboard </h3>
+    <p> To be completed...... </p>
+    <div style="background-color: brown; width: 150 px; float: left; height: 150 px;">
+        <!-- Content for the brown div goes here -->
+         <img src="your-image-url.jpg" alt="Image" style="width: 150 px; height: 150 px; object-fit: cover;">
+        Click on image to see video of dashboard
+    
+        <!-- Content for the brown div goes here -->
+         <img src="your-image-url.jpg" alt="Image" style="width: 150 px; height: 150 px; object-fit: cover;"> 
+    </div> 
+</section>
 
-    <!-- Content for the brown div goes here -->
-     <img src="your-image-url.jpg" alt="Image2" style="width: 150px; height: 150px; object-fit: cover;">
-</div>
 
-
-<h4> Real Estate Analysis - Power BI Dashboard </h4> 
-<p>Energy Efficiency  - Power BI Dashboard </p>
-<div>
-    <div style="background-color: blue; width: 150px; float: left; height: 150px;">
-    <!-- Content for the blue div goes here -->
-    Manufacturing Process Improvement Power BI Dashboard
+<section>
+    <h4> Real Estate Analysis - Power BI Dashboard </h4> 
+    <p>Energy Efficiency  - Power BI Dashboard </p>
+    <div>
+        <div style="background-color: blue; width: 150px; float: left; height: 150px;">
+        <!-- Content for the blue div goes here -->
+        Manufacturing Process Improvement Power BI Dashboard
+        </div>
+    
+        <div style="background-color: brown; width: 150px; float: left; height: 150px;">
+        <!-- Content for the brown div goes here -->
+         <img src="your-image-url.jpg" alt="Image" style="width: 150px; height: 150px; object-fit: cover;">
+        Click on image to see video of dashboard
+        </div>
     </div>
-
-    <div style="background-color: brown; width: 150px; float: left; height: 150px;">
-    <!-- Content for the brown div goes here -->
-     <img src="your-image-url.jpg" alt="Image" style="width: 150px; height: 150px; object-fit: cover;">
-    Click on image to see video of dashboard
-    </div>
-</div>
+</section>
 
 
 <section>
