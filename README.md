@@ -23,15 +23,10 @@
         img {
             max-width: 100%;
             height: auto;
-            align_items: center;
             display: block;
             float: left;
             width: 33.33%;
-            padding: 5px;
-            content: "";
-  clear: both;
-  display: table;
-            margin: 5px; /* Add margin for spacing */
+
         }
 
         nav {
