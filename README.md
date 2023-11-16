@@ -91,7 +91,8 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     
         <div style="background-color: red; width: 150 px; float: left; height: 150 px;">
         <!-- Content for the brown div goes here -->
-         <img src="your-image-url.jpg" alt="Image" style="width: 150 px; height: 150 px; object-fit: cover;">
+         <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
+        <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />
         Click on image to see video of dashboard
         </div>
     </div>
@@ -105,7 +106,8 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 <div>
     <div style="background-color: blue; width: 150 px; float: left; height: 150 px;">
     <!-- IMAGE 11 -->
-    <img src="your-image-url.jpg" alt="Image11" style="width: 150 px; height: 150 px; object-fit: cover;">
+    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
+    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />
     Image 11
     </div>
 </div>
