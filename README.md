@@ -54,12 +54,14 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <li> (Government): Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
 
-<h3> Manufacturing Analysis - Power BI Dashboard </h3>
-<p> To be completed...... </p>
-<div style="background-color: blue; width: 150px; float: left; height: 150px;">
+<section>
+    <h3> Manufacturing Analysis - Power BI Dashboard </h3>
+    <p> To be completed...... </p>
+    <div style="background-color: blue; width: 150 px; float: left; height: 150 px;">
     <!-- Content for the blue div goes here -->
     Manufacturing Process Improvement Power BI Dashboard
-</div>
+    </div>
+</section>
 
 <h3> Crime Analysis - Power BI Dashboard </h3>
 <p> To be completed...... </p>
