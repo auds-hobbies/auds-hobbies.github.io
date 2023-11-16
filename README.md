@@ -11,6 +11,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            background-color:cyan;
         }
 
         nav {
@@ -60,7 +61,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <p> To be completed...... </p>
     <div style="background-color: blue; width: 150 px; float: left; height: 150 px;">
     <!-- Content for the blue div goes here -->
-     <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "250"  />
+     <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
     <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />
     </div>
 </section>
