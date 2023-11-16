@@ -16,10 +16,14 @@ github webpage
 
 
 <h1>DATA ANALYSIS PORTFOLIO</h1>
-Below is a list of my projects accomplished with tools such as Power BI, Excel, python etc. 
+Below is a list of my projects accomplished with tools such as Power BI, Excel, python etc: <br>
+<ul>
+    <li> (Manufacturing): Process improvement analysis <li>
+    <li> (Manufacturing): Process improvement analysis <li>
+</ul>
 
 <p>Manufacturing Analysis - Power BI Dashboard </p>
-<div style="background-color: blue; width: 50%; float: left; height: 100vh;">
+<div style="background-color: blue; width: 50px; float: left; height: 50px;">
     <!-- Content for the blue div goes here -->
     Manufacturing Process Improvement Power BI Dashboard
 </div>
