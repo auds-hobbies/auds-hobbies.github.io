@@ -50,7 +50,9 @@ github webpage
 <h1>DATA ANALYSIS PORTFOLIO</h1>
 Below is a list of my projects accomplished with tools such as Power BI, Excel, python etc: 
 <ul>
-    <li> (Manufacturing): Process improvement analysis   </li>
+    <li> (Health): Health Risk Analysis   </li>  
+    <li> (Manufacturing): Manufacturing Process Analysis   </li>
+    <li> (Government): Crime Analytics    </li>
     <li> (Government): Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
     <li> (Government): Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
@@ -72,11 +74,8 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
     <p> To be completed...... </p>
     <div style="background-color: brown; width: 150 px; float: left; height: 150 px;">
         <!-- Content for the brown div goes here -->
-         <img src="your-image-url.jpg" alt="Image" style="width: 150 px; height: 150 px; object-fit: cover;">
-        Click on image to see video of dashboard
-    
-        <!-- Content for the brown div goes here -->
-         <img src="your-image-url.jpg" alt="Image" style="width: 150 px; height: 150 px; object-fit: cover;"> 
+         <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
+        <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />
     </div> 
 </section>
 
