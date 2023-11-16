@@ -49,9 +49,9 @@
     </head>
     <body>
 <nav>
-    <a href="#home">Home</a>
+    <a href="https://auds-hobbies.github.io/">GitHub Webpage</a>
     <a href="https://www.youtube.com/@auds2000pro/videos">YouTube</a>
-     <a href="#about">Twitter</a>
+     <a href="https://twitter.com/auds2000pro">Twitter</a>
 </nav>
 
 
