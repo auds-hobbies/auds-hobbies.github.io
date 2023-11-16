@@ -101,7 +101,7 @@ Below is a list of my projects accomplished with tools such as Power BI, Excel, 
 </div>
 
 <div>
-    <div style="background-color: blue; width: 150px; float: left; height: 150px;">
+    <div style="background-color: green; width: 150px; float: left; height: 150px;">
     <!-- IMAGE 22 -->
     <img src="your-image-url.jpg" alt="Image22" style="width: 150px; height: 150px; object-fit: cover;">
     Image 22
