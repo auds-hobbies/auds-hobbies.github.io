@@ -75,7 +75,7 @@ Below is a list of select projects accomplished with tools such as, but not limi
     <p>
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub </a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
         <a href="#report" target="_blank"> Report (PowerPoint) </a>
     </p>
     <div class="container" >
