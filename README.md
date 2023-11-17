@@ -154,7 +154,8 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
     <p>
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
+        <a href="#report" target="_blank"> Report (PowerPoint)</a>
     </p>
       <div style="width: 350 px; float: left; height: 350 px;">
     <!-- Content for the blue div goes here -->
