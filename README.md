@@ -53,7 +53,7 @@ Hi there, Audry here. I'm passionate about leveraging data to drive informed dec
 
 Journey through my portfolio, where each project is an embodiment of a data-driven solution.
 
-Sections A and B below contain a summary overview of the projects, i.e., description etc. Howevever, for a quick overview, see a selection of projects accomplished with techniques and tools such as, but not limited to Power BI, Excel, python, classification, clustering, and NLP, to name a few: 
+Sections A and B below contain a summary overview of the projects, i.e., description etc. Howevever, for a quick overview, see a selection of projects accomplished with techniques and tools such as, but not limited to Power BI (DAX), Excel, python, classification, clustering, and NLP, to name a few: 
 <ul>
     <li> <b>(Health):</b> Health Risk Predictor (web app & Power BI dashboard)   </li>  
     <li> <b>(Services - Operations):</b> Call Center Data Analysis    </li>  
@@ -103,7 +103,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 
 
 
-
+<br><br> <br><br><br><br><br>
 <h1>B.) DATA ANALYSIS PORTFOLIO</h1>
 Herewith a selection of my project accomplished with tools such as python, Power BI, and Excel, to name a few:
 <br>
