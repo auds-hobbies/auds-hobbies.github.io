@@ -118,7 +118,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
 <br><br> <br><br><br><br><br>
 
 <section>
-<h3> Call Center Analysis </h3> 
+<h3> Call Center Analysis (Power BI Dashboard) </h3> 
 <p> Analyses on selected call center operations that help Call Center Managers have first hand overview of selected KPIs. </p> 
 <ul>
         <li> <b>Statistical Analysis & Hypothesis Tests: </b>Summary statistics, e.g., mean; correlation with spearman; and hypothesis testing   </li>
@@ -128,7 +128,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
 <p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
         <a href="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_01.py" target="_blank"> Python Code </a>,
         <a href="https://www.youtube.com/watch?v=AEtLjjGaEUI&t=87s"> YouTube (Power BI Dashboard)</a>,
-        <a href="#report" target="_blank"> Report (PowerPoint)</a>
+        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_centre_powerbi_dashboard_presentation.pdf"> Report (PowerPoint)</a>
 </p>
 <div style="width: 350 px; float: left; height: 350 px;">
     <!-- Content for the blue div goes here -->
