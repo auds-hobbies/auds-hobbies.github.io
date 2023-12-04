@@ -69,23 +69,6 @@ Sections A and B below contain a summary overview of the projects, i.e., descrip
 
 
 
-    <br><br><br>
-<section>
-    <h3> SAMPLE SAMPLE ---- Contact Center - Call Analysis Power BI Dashboard </h3>
-    <p> Analysis on calls within a contact center over a 3 month period. </p>
-    <p>
-        Call Center Analysis: <a href="#report" target="_blank"> Report (PowerPoint) & Python Code</a>; 
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
-        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_01.py" target="_blank"> Python code </a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
-        <a href="https://youtu.be/AEtLjjGaEUI" target="_blank"> YT</a>,
-    </p>
-    <div class="container" >
-        <!-- Content for the blue div goes here -->
-          <img src="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard3_kpi.png?raw=true"  width = "350"  />  
-    </div>
-</section> 
-
 <br><br><br><br><br><br><br><b
 <h1>A.) DATA SCIENCE PORTFOLIO</h1>
 Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc:  
@@ -106,7 +89,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
         <li> <b>Approach: </b>Engineered new features along with combinining location data from SFO dataset. Compared multiple models using algorithms such as ...... to arrive at Random Forest as the optimal    </li>
         <li> <b>Outcomes:</b> Power BI dashboard; a Django web app predictor    </li>
 </ul>
-<p> The python code, pictures, videos, and/or a final report can be seen at the following links:
+<p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
         <a href="#report" target="_blank"> Report (PowerPoint)</a>
@@ -133,7 +116,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
         <li> <b>Approach: </b>Engineered new features along with combinining location data from SFO dataset. Calculated KPIs/metrics with python.     </li>
         <li> <b>Outcomes:</b> Power BI dashboard    </li>
 </ul>
-<p> The python code, pictures, videos, and/or a final report can be seen at the following links:
+<p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
         <a href="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_01.py" target="_blank"> Python Code </a>,
         <a href="https://www.youtube.com/watch?v=AEtLjjGaEUI&t=87s"> YouTube (Power BI Dashboard)</a>,
         <a href="#report" target="_blank"> Report (PowerPoint)</a>
@@ -148,21 +131,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
 
 
 
-<section>
-    <h3> Health Risk Analysis - Power BI Dashboard </h3>
-    <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients.</p>
-    <p>
-        <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub </a>,
-        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
-        <a href="#report" target="_blank"> Report (PowerPoint) </a>
-    </p>
-    <div class="container" >
-        <!-- Content for the blue div goes here -->
-          <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "350"  />  
-          <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />  
-    </div>
-</section>
+
 
 <br><br><br>
 <section> 
@@ -180,7 +149,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
     </div> 
 </section> 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 <section> 
    <h3> Crime Analysis - Power BI Dashboard </h3>
     <p> Analysis on crime. </p>
@@ -211,38 +180,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
     </div> 
 </section> 
 
-<br><br><br><br><br><br><br><br>
-<h1>DATA SCIENCE PORTFOLIO</h1>
-Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc: 
-<ul>
-    <li> <b>(Telcom):</b> Customer Analytics / Customer Segmentation   </li>
-    <li> <b>(Health)[<i>web app</i>]:</b> Heart Risk Analysis / Heart Risk Predictor / Spatial Analysis / Patient Segmentation   </li>
-    <li> <b>(Government)[<i>web app/dashboard</i>]:</b> Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
-    <li> <b>(Government):</b> Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
-</ul>
 
- 
-<br>
-<section>
-    <h3> Heart Risk Predictor </h3> 
-    <p> A machine learning project with multi-purpose outcomes created for nurses/doctors, insurance companies, and ......: </p> 
-    <ul>
-        <li> Heart Risk Predictor: prediction of heart risk of patients   </li>
-        <li> Spatial Analysis Dashboard:   </li>
-        <li> Client Analysis Dashboard:   </li>
-    </ul>
-    <p>
-        <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
-        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
-        <a href="#report" target="_blank"> Report (PowerPoint)</a>
-    </p>
-      <div style="width: 350 px; float: left; height: 350 px;">
-    <!-- Content for the blue div goes here -->
-     <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
-    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />
-    </div>
-</section>
 
 
 
