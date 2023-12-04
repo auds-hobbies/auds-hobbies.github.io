@@ -80,14 +80,14 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
     <li> <b>(Government):</b> Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
 
-<br> <br><br><br><br><br>
+<br> <br><br><br>
 <section>
 <h3> Heart Risk Predictor </h3> 
 <p> A machine learning web app that helps doctors and nurses predict the heart risk of a patient. </p> 
 <ul>
         <li> <b>Data Science Techniques: </b>Classification   </li>
         <li> <b>Approach: </b>Engineered new features along with combinining location data from SFO dataset. Compared multiple models using algorithms such as ...... to arrive at Random Forest as the optimal    </li>
-        <li> <b>Outcomes:</b> Power BI dashboard; a Django web app predictor    </li>
+        <li> <b>Outcomes:</b> A Power BI dashboard, Excel Dashboard, and a predictor (Django (web app)    </li>
 </ul>
 <p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
