@@ -50,14 +50,13 @@ Hi there, Audry here. I'm passionate about leveraging data to drive informed dec
     <li> Data Science </li>
     <li> Data Analysis </li>
 </ul>
-    Journey through my portfolio, where each project is an embodiment of a data-driven solution.
 
-    Sections A and B below contain a summary overview of the projects, i.e., description etc. 
-    
-    Below is a selection of some of my projects accomplished with tools such as, but not limited to Power BI, Excel, and python, to name a few: 
+Journey through my portfolio, where each project is an embodiment of a data-driven solution.
+
+Sections A and B below contain a summary overview of the projects, i.e., description etc. Howevever, for a quick overview, see a selection of projects accomplished with tools such as, but not limited to Power BI, Excel, and python, to name a few: 
 <ul>
     <li> <b>(Health):</b> Health Risk Analysis   </li>  
-    <li> <b>(Services - Operations):</b> Call Center Analysis: <a href="#report" target="_blank"> Report (PowerPoint) & Python Code</a>; <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>  </li>  
+    <li> <b>(Services - Operations):</b>   </li>  
     <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
     <li> <b>(Manufacturing / Lean Process Improvement):</b> Manufacturing Process Analysis - Defects Analysis - Rolled Throughput Determination   </li>
     <li> <b>(Government):</b> Crime Analytics    </li>
@@ -75,11 +74,11 @@ Hi there, Audry here. I'm passionate about leveraging data to drive informed dec
     <h3> SAMPLE SAMPLE ---- Contact Center - Call Analysis Power BI Dashboard </h3>
     <p> Analysis on calls within a contact center over a 3 month period. </p>
     <p>
+        Call Center Analysis: <a href="#report" target="_blank"> Report (PowerPoint) & Python Code</a>; 
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
         <a href="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_01.py" target="_blank"> Python code </a>,
-        <a href="https://x.com/auds2000pro/status/1729250453584531490?s=20" target="_blank"> Twitter</a>,
         <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
         <a href="https://youtu.be/AEtLjjGaEUI" target="_blank"> YT</a>,
-        <a href="#report" target="_blank"> Report (PowerPoint) </a>
     </p>
     <div class="container" >
         <!-- Content for the blue div goes here -->
