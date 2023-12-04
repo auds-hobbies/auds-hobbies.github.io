@@ -104,7 +104,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 
 
 
-<h1>DATA ANALYSIS PORTFOLIO</h1>
+<h1>B.) DATA ANALYSIS PORTFOLIO</h1>
 Herewith a selection of my project accomplished with tools such as python, Power BI, and Excel, to name a few:
 <br>
 <ul>
