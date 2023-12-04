@@ -57,6 +57,7 @@ Hi there, Audry here. I'm passionate about leveraging data to drive informed dec
     Below is a selection of some of my projects accomplished with tools such as, but not limited to Power BI, Excel, and python, to name a few: 
 <ul>
     <li> <b>(Health):</b> Health Risk Analysis   </li>  
+    <li> <b>(Services - Operations):</b> Call Center Analysis: <a href="#report" target="_blank"> Report (PowerPoint) & Python Code</a>; <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>  </li>  
     <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
     <li> <b>(Manufacturing / Lean Process Improvement):</b> Manufacturing Process Analysis - Defects Analysis - Rolled Throughput Determination   </li>
     <li> <b>(Government):</b> Crime Analytics    </li>
