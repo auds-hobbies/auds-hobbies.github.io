@@ -69,7 +69,7 @@ Sections A and B below contain a summary overview of the projects, i.e., descrip
 
 
 
-<br><br><br><br><br><br><br><b
+<br><br><br><br>
 <h1>A.) DATA SCIENCE PORTFOLIO</h1>
 Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc:  
 
@@ -106,8 +106,15 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 
 <h1>DATA ANALYSIS PORTFOLIO</h1>
 Herewith a selection of my project accomplished with tools such as python, Power BI, and Excel, to name a few:
-<br><br><br>
 <br>
+<ul>
+    <li> <b>(Health):</b> Health Risk Predictor (web app & Power BI dashboard)   </li>  
+    <li> <b>(Services - Operations):</b> Call Center Data Analysis    </li>  
+    <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
+    <li> <b>(Manufacturing / Lean Process Improvement):</b> Manufacturing Process Analysis - Defects Analysis - Rolled Throughput Determination   </li>
+</ul>
+<br><br>
+
 <section>
 <h3> Call Center Analysis </h3> 
 <p> Analyses on selected call center operations that help Call Center Managers have first hand overview of selected KPIs. </p> 
@@ -165,7 +172,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
     </div> 
 </section>
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br> 
 <section> 
    <h3> Lean Manufacturing (Process Improvement) - Power BI Dashboard </h3>
     <p> Analysis on manufacturing process for improvement purposes. </p>
