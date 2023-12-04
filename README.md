@@ -80,7 +80,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
     <li> <b>(Government):</b> Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
 
-<br>
+<br> <br><br><br><br><br>
 <section>
 <h3> Heart Risk Predictor </h3> 
 <p> A machine learning web app that helps doctors and nurses predict the heart risk of a patient. </p> 
@@ -113,7 +113,9 @@ Herewith a selection of my project accomplished with tools such as python, Power
     <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
     <li> <b>(Manufacturing / Lean Process Improvement):</b> Manufacturing Process Analysis - Defects Analysis - Rolled Throughput Determination   </li>
 </ul>
-<br><br>
+
+
+<br><br> <br><br><br><br><br>
 
 <section>
 <h3> Call Center Analysis </h3> 
@@ -140,7 +142,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
 
 
 
-<br><br><br>
+<br><br><br> <br><br><br><br><br>
 <section> 
    <h3> Real Estate Analytics - Power BI Dashboard </h3>
     <p> Analysis on property data.</p>
@@ -156,7 +158,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
     </div> 
 </section> 
 
-<br><br><br><br>
+<br><br><br><br> <br><br><br><br><br>
 <section> 
    <h3> Crime Analysis - Power BI Dashboard </h3>
     <p> Analysis on crime. </p>
@@ -172,7 +174,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
     </div> 
 </section>
 
-<br><br><br><br><br> 
+<br><br><br><br><br> <br><br><br><br><br>
 <section> 
    <h3> Lean Manufacturing (Process Improvement) - Power BI Dashboard </h3>
     <p> Analysis on manufacturing process for improvement purposes. </p>
