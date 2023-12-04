@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-    <head>
-        <meta charset="utf-8">
+<head>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title> My Portfolio </title>
      <style>
@@ -34,8 +34,8 @@
      
        
     </style>
-    </head>
-    <body>
+</head>
+<body>
 <nav>
     <a href="https://auds-hobbies.github.io/">GitHub Webpage</a>
     <a href="https://twitter.com/auds2000pro">Twitter</a>
@@ -56,7 +56,7 @@ Journey through my portfolio, where each project is an embodiment of a data-driv
 Sections A and B below contain a summary overview of the projects, i.e., description etc. Howevever, for a quick overview, see a selection of projects accomplished with techniques and tools such as, but not limited to Power BI, Excel, python, classification, clustering, and NLP, to name a few: 
 <ul>
     <li> <b>(Health):</b> Health Risk Predictor (web app & Power BI dashboard)   </li>  
-    <li> <b>(Services - Operations):Call Center Data Analysis </b>   </li>  
+    <li> <b>(Services - Operations):</b> Call Center Data Analysis    </li>  
     <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
     <li> <b>(Manufacturing / Lean Process Improvement):</b> Manufacturing Process Analysis - Defects Analysis - Rolled Throughput Determination   </li>
     <li> <b>(Government):</b> Crime Analytics    </li>
@@ -86,10 +86,45 @@ Sections A and B below contain a summary overview of the projects, i.e., descrip
     </div>
 </section> 
 
+<br><br><br><br><br><br><br><br>
+<h1>A.) DATA SCIENCE PORTFOLIO</h1>
+Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc: 
+<ul>
+    <li> <b>(Telcom):</b> Customer Analytics / Customer Segmentation   </li>
+    <li> <b>(Health)[<i>web app</i>]:</b> Heart Risk Analysis / Heart Risk Predictor / Spatial Analysis / Patient Segmentation   </li>
+    <li> <b>(Government)[<i>web app/dashboard</i>]:</b> Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
+    <li> <b>(Government):</b> Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
+</ul>
+
+<br>
+<section>
+<h3> Heart Risk Predictor </h3> 
+<p> A machine learning project with multi-purpose outcomes created for nurses/doctors, insurance companies, and ......: </p> 
+<ul>
+        <li> Heart Risk Predictor: prediction of heart risk of patients   </li>
+        <li> Spatial Analysis Dashboard:   </li>
+        <li> Client Analysis Dashboard:   </li>
+</ul>
+<p>
+        <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
+        <a href="#report" target="_blank"> Report (PowerPoint)</a>
+</p>
+<div style="width: 350 px; float: left; height: 350 px;">
+    <!-- Content for the blue div goes here -->
+     <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
+    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />
+</div>
+</section> 
+
+
+
+
+
+
+
+
 <h1>DATA ANALYSIS PORTFOLIO</h1>
-
-
-
 
 <br><br><br>
 <section>
