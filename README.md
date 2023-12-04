@@ -106,7 +106,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
         <li> <b>Approach: </b>Engineered new features along with combinining location data from SFO dataset. Compared multiple models using algorithms such as ...... to arrive at Random Forest as the optimal    </li>
         <li> <b>Outcomes:</b> Power BI dashboard; a Django web app predictor    </li>
 </ul>
-<p> Pictures, videos, and a final report can be seen at the following links:
+<p> The python code, pictures, videos, and/or a final report can be seen at the following links:
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
         <a href="#report" target="_blank"> Report (PowerPoint)</a>
@@ -121,13 +121,34 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 
 
 
-
-
-
-
 <h1>DATA ANALYSIS PORTFOLIO</h1>
-
+Herewith a selection of my project accomplished with tools such as python, Power BI, and Excel, to name a few:
 <br><br><br>
+<br>
+<section>
+<h3> Call Center Analysis </h3> 
+<p> Analyses on selected call center operations that help Call Center Managers have first hand overview of selected KPIs. </p> 
+<ul>
+        <li> <b>Statistical Analysis & Hypothesis Tests: </b>Summary statistics, e.g., mean; correlation with spearman; and hypothesis testing   </li>
+        <li> <b>Approach: </b>Engineered new features along with combinining location data from SFO dataset. Calculated KPIs/metrics with python.     </li>
+        <li> <b>Outcomes:</b> Power BI dashboard    </li>
+</ul>
+<p> The python code, pictures, videos, and/or a final report can be seen at the following links:
+        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_01.py" target="_blank"> Python code </a>,
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
+        <a href="https://www.youtube.com/watch?v=AEtLjjGaEUI&t=87s"> YouTube (Power BI Dashboard)</a>,
+        <a href="#report" target="_blank"> Report (PowerPoint)</a>
+</p>
+<div style="width: 350 px; float: left; height: 350 px;">
+    <!-- Content for the blue div goes here -->
+     <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "300"  />
+    <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />
+</div>
+</section> 
+
+
+
+
 <section>
     <h3> Health Risk Analysis - Power BI Dashboard </h3>
     <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients.</p>
