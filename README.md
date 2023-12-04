@@ -44,7 +44,7 @@
 
 
 
-<h1>MY DATA ANALYSIS & DATA SCIENCE PORTFOLIO</h1>
+<h1>OVERVIEW</h1>
 Hi there, Audry here. I'm passionate about leveraging data to drive informed decisions. I have organized my portfolio into two main categories:
 <ul>
     <li> Data Science </li>
@@ -52,8 +52,9 @@ Hi there, Audry here. I'm passionate about leveraging data to drive informed dec
 </ul>
     Journey through my portfolio, where each project is an embodiment of a data-driven solution.
 
-<h1>DATA ANALYSIS PORTFOLIO</h1>
-Below is a list of select projects accomplished with tools such as, but not limited to Power BI, Excel, and python, to name a few: 
+    Sections A and B below contain a summary overview of the projects, i.e., description etc. 
+    
+    Below is a selection of some of my projects accomplished with tools such as, but not limited to Power BI, Excel, and python, to name a few: 
 <ul>
     <li> <b>(Health):</b> Health Risk Analysis   </li>  
     <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
@@ -65,6 +66,28 @@ Below is a list of select projects accomplished with tools such as, but not limi
     <li> <b>(Manufacturing / Automotive -- Asset Data Management):</b> Metadata analysis - analysis of parts data (asset data) <i>Not available for public consumption due to NDA </i>  </li>
     <li> <b>(Energy / Utility -- Asset Data Management):</b> Metadata analysis - analysis of asset data for critical data identification <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
+
+
+
+    <br><br><br>
+<section>
+    <h3> SAMPLE SAMPLE ---- Contact Center - Call Analysis Power BI Dashboard </h3>
+    <p> Analysis on calls within a contact center over a 3 month period. </p>
+    <p>
+        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_01.py" target="_blank"> Python code </a>,
+        <a href="https://x.com/auds2000pro/status/1729250453584531490?s=20" target="_blank"> Twitter</a>,
+        <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
+        <a href="https://youtu.be/AEtLjjGaEUI" target="_blank"> YT</a>,
+        <a href="#report" target="_blank"> Report (PowerPoint) </a>
+    </p>
+    <div class="container" >
+        <!-- Content for the blue div goes here -->
+          <img src="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_power_bi_dashboard3_kpi.png?raw=true"  width = "350"  />  
+    </div>
+</section> 
+
+<h1>DATA ANALYSIS PORTFOLIO</h1>
+
 
 
 
