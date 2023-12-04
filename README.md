@@ -103,10 +103,10 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 <p> A machine learning web app that helps doctors and nurses predict the heart risk of a patient. </p> 
 <ul>
         <li> <b>Data Science Techniques: </b>Classification   </li>
-        <li> <b>Approach & Modelling: </b>Compared multiple models such as ...... to arrive at Random Forest as the optimal    </li>
+        <li> <b>Approach: </b>Engineered new features along with combinining location data from SFO dataset. Compared multiple models using algorithms such as ...... to arrive at Random Forest as the optimal    </li>
         <li> <b>Outcomes:</b> Power BI dashboard; a Django web app predictor    </li>
 </ul>
-<p> Links:
+<p> Pictures, videos, and a final report can be seen at the following links:
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
         <a href="#report" target="_blank"> Report (PowerPoint)</a>
