@@ -86,9 +86,10 @@ Sections A and B below contain a summary overview of the projects, i.e., descrip
     </div>
 </section> 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><b
 <h1>A.) DATA SCIENCE PORTFOLIO</h1>
-Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc: 
+Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc:  
+
 <ul>
     <li> <b>(Telcom):</b> Customer Analytics / Customer Segmentation   </li>
     <li> <b>(Health)[<i>web app</i>]:</b> Heart Risk Analysis / Heart Risk Predictor / Spatial Analysis / Patient Segmentation   </li>
@@ -99,13 +100,13 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 <br>
 <section>
 <h3> Heart Risk Predictor </h3> 
-<p> A machine learning project with multi-purpose outcomes created for nurses/doctors, insurance companies, and ......: </p> 
+<p> A machine learning web app that helps doctors and nurses predict the heart risk of a patient. </p> 
 <ul>
-        <li> Heart Risk Predictor: prediction of heart risk of patients   </li>
-        <li> Spatial Analysis Dashboard:   </li>
-        <li> Client Analysis Dashboard:   </li>
+        <li> <b>Data Science Techniques: </b>Classification   </li>
+        <li> <b>Approach & Modelling: </b>Compared multiple models such as ...... to arrive at Random Forest as the optimal    </li>
+        <li> <b>Outcomes:</b> Power BI dashboard; a Django web app predictor    </li>
 </ul>
-<p>
+<p> Links:
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>,
         <a href="#report" target="_blank"> Report (PowerPoint)</a>
