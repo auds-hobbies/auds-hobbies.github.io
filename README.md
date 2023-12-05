@@ -53,7 +53,14 @@ Hi there, Audry here. I'm passionate about leveraging data to drive informed dec
 
 Journey through my portfolio, where each project is an embodiment of a data-driven solution.
 
-Sections A and B below contain a summary overview of the projects, i.e., description etc. Howevever, for a quick overview, see a selection of projects accomplished with techniques and tools such as, but not limited to Power BI (DAX), Excel, python, classification, clustering, and NLP, to name a few: 
+Sections A and B below contain a summary overview of the projects, i.e., description etc. Howevever, for a quick overview, see a selection of projects accomplished with techniques and tools such as, but not limited to the following: <br>
+<ul>
+    <li><b>Programming/Software:</b> Excel, Power BI (DAX), Python (Pandas, Scikitlearn, Matplotlib etc) </li>
+    <li><b>Algorithms (not limited to the following):</b>clustering (K-Means, K-Mode), Regression, Classification (Decision tree, Random Forest, SVM, KNN etc), Text mining / NLP (tf-idf), to name a few </li>
+    <li><b>Project Management Approaches, Tools & Techniques:</b> Agile (Scrum, Kanban), Waterfall, MS Project, MS Visio, Trello </li>
+        
+<br>
+Selection of projects:
 <ul>
     <li> <b>(Health):</b> Health Risk Predictor (web app & Power BI dashboard)   </li>  
     <li> <b>(Services - Operations):</b> Call Center Data Analysis    </li>  
