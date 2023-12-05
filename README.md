@@ -74,6 +74,7 @@ Selection of projects:
     <li> <b>(Energy / Utility -- Asset Data Management):</b> Metadata analysis - analysis of asset data for critical data identification <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
 
+<br>
 A demo on some of the dashboards and/or web apps can be found at my <a href="https://www.youtube.com/@auds2000pro/videos">YouTube</a> channel.
 
 <br><br><br><br>
