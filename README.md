@@ -62,6 +62,7 @@ Sections A and B below contain a summary overview of the projects, i.e., descrip
 <br>
 Selection of projects:
 <ul>
+    <li> <b>(Energy / Utilities -- Energy Efficiency: </b> Energy efficiency predictor app </li>
     <li> <b>(Health):</b> Health Risk Predictor (web app & Power BI dashboard)   </li>  
     <li> <b>(Services - Operations):</b> Call Center Data Analysis    </li>  
     <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
@@ -71,7 +72,7 @@ Selection of projects:
     <li> <b>(Government):</b> Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
     <li> <b>(Manufacturing / Semiconductor):</b> Asset data (parts) analysis - analysis on parts data (asset data) to determine bottlenecks in order fulfillment process. <i>Not available for public consumption due to NDA </i>  </li>
     <li> <b>(Manufacturing / Automotive -- Asset Data Management):</b> Metadata analysis - analysis of parts data (asset data) <i>Not available for public consumption due to NDA </i>  </li>
-    <li> <b>(Energy / Utility -- Asset Data Management):</b> Metadata analysis - analysis of asset data for critical data identification <i>Not available for public consumption due to NDA </i>  </li>
+    <li> <b>(Energy / Utilities -- Asset Data Management):</b> Metadata analysis - analysis of asset data for critical data identification <i>Not available for public consumption due to NDA </i>  </li>
 </ul>
 
 <br>
