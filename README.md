@@ -62,7 +62,7 @@ Sections A and B below contain a summary overview of the projects, i.e., descrip
 <br>
 Selection of projects:
 <ul>
-    <li> <b>(Energy / Utilities -- Energy Efficiency: </b> Energy efficiency predictor app </li>
+    <li> <b>(Energy / Utilities -- Energy Efficiency): </b> Energy efficiency predictor app </li>
     <li> <b>(Health):</b> Health Risk Predictor (web app & Power BI dashboard)   </li>  
     <li> <b>(Services - Operations):</b> Call Center Data Analysis    </li>  
     <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
