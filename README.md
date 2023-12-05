@@ -82,14 +82,7 @@ A demo on some of the dashboards and/or web apps can be found at my <a href="htt
 <h1>A.) DATA SCIENCE PORTFOLIO</h1>
 Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc:  
 
-<ul>
-    <li> <b>(Telcom):</b> Customer Analytics / Customer Segmentation   </li>
-    <li> <b>(Health)[<i>web app</i>]:</b> Heart Risk Analysis / Heart Risk Predictor / Spatial Analysis / Patient Segmentation   </li>
-    <li> <b>(Government)[<i>web app/dashboard</i>]:</b> Traffic Problems Analysis - <i>Not available for public consumption due to NDA </i>  </li>
-    <li> <b>(Government):</b> Mental Health Problems in Children - <i>Not available for public consumption due to NDA </i>  </li>
-</ul>
-
-<br> <br><br><br>
+<br> <br> 
 <section>
 <h3> Heart Risk Predictor </h3> 
 <p> A machine learning web app that helps doctors and nurses predict the heart risk of a patient. </p> 
