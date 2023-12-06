@@ -82,7 +82,7 @@ A demo on some of the dashboards and/or web apps can be found at my <a href="htt
 <h1>A.) DATA SCIENCE PORTFOLIO</h1>
 Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc:  
 
-<br> <br> 
+<br> 
 <section>
 <h3> Heart Risk Predictor --- Django Web App, Power BI Dashboard, and Excel Dashboard </h3> 
 <p> A machine learning web app that helps doctors and nurses predict the heart risk of a patient. </p> 
