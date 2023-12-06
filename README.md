@@ -92,7 +92,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
         <li> <b>Outcomes:</b> A Power BI dashboard, Excel Dashboard, and a predictor (Django (web app)    </li>
 </ul>
 <p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
-        <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub (Python Code etc) </a>,
+        <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub(Python Code etc) </a>,
         <a href="https://www.youtube.com/watch?v=fBfwwSnnmyA"> YouTube (Demo)</a>,
         <a href="#report" target="_blank"> Report (PowerPoint)</a>
 </p>
