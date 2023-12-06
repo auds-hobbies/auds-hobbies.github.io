@@ -84,7 +84,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 
 <br> <br> 
 <section>
-<h3> Heart Risk Predictor -- Django Web App, Power BI Dashboard, and Excel Dashboard </h3> 
+<h3> Heart Risk Predictor --- Django Web App, Power BI Dashboard, and Excel Dashboard </h3> 
 <p> A machine learning web app that helps doctors and nurses predict the heart risk of a patient. </p> 
 <ul>
         <li> <b>Data Science Techniques: </b>Classification   </li>
@@ -93,7 +93,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 </ul>
 <p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub</a>,
-        <a href="https://www.youtube.com/@auds2000pro/videos" target="fBfwwSnnmyA"> YouTube (Demo)</a>,
+        <a href="https://www.youtube.com/watch?v=fBfwwSnnmyA"> YouTube (Demo)</a>,
         <a href="#report" target="_blank"> Report (PowerPoint)</a>
 </p>
 <div style="width: 350 px; float: left; height: 350 px;">
