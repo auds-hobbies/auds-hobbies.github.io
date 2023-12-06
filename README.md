@@ -103,7 +103,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 </div>
 </section> 
 
-https://youtu.be/fBfwwSnnmyA
+
 
 <br><br> <br><br><br><br><br>
 <h1>B.) DATA ANALYSIS PORTFOLIO</h1>
