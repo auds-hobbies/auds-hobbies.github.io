@@ -123,10 +123,10 @@ Herewith a selection of my project accomplished with tools such as python, Power
 
 <section>
 <h3> Call Center Analysis (Power BI Dashboard) </h3> 
-<p> Analyses on selected call center operations that help Call Center Managers have first hand overview of selected KPIs. </p> 
+<p> Analyses on real estate property sales. </p> 
 <ul>
         <li> <b>Statistical Analysis & Hypothesis Tests: </b>Summary statistics, e.g., mean; correlation with spearman; and hypothesis testing   </li>
-        <li> <b>Approach: </b>Engineered new features along with combinining location data from SFO dataset. Calculated KPIs/metrics with python.     </li>
+        <li> <b>Approach: </b>Processed the data with Python programming language.Calculated KPIs/metrics with Power BI DAX.     </li>
         <li> <b>Outcomes:</b> Power BI dashboard    </li>
 </ul>
 <p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
@@ -141,27 +141,6 @@ Herewith a selection of my project accomplished with tools such as python, Power
 </div>
 </section> 
 
-<section>
-<h3> Real Estate Sales Analysis (Power BI Dashboard) </h3> 
-<p> Analyses on selected call center operations that help Call Center Managers have first hand overview of selected KPIs. </p> 
-<ul>
-        <li> <b>Statistical Analysis & Hypothesis Tests: </b>Summary statistics, e.g., mean; correlation with spearman; and hypothesis testing   </li>
-        <li> <b>Approach: </b>Engineered new features along with combinining location data from SFO dataset. Calculated KPIs/metrics with python.     </li>
-        <li> <b>Outcomes:</b> Power BI dashboard    </li>
-</ul>
-<p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
-        <a href="https://github.com/auds-hobbies/p2_real_estate/blob/main/README.md"> Github (Python Code etc) </a>,
-        <a href="https://www.youtube.com/watch?v=b9DnhYVYWpg"> YouTube (Power BI Dashboard)</a>,
-        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_centre_powerbi_dashboard_presentation.pdf"> Report (PowerPoint)</a>
-</p>
-<div style="width: 350 px; float: left; height: 350 px;">
-    <!-- Content for the blue div goes here -->
-    <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/github_power_bi_dashboard_real_estate.png?raw=true" width="350" />
-    
-</div>
-</section> 
-
-https://youtu.be/b9DnhYVYWpg
 
 <br><br><br> <br><br><br><br><br>
 <section> 
@@ -181,7 +160,7 @@ https://youtu.be/b9DnhYVYWpg
 
 <br><br><br><br> <br><br><br><br><br>
 <section> 
-   <h3> Crime Analysis - Power BI Dashboard </h3>
+   <h3> Crime Analysis - Power BI Dashboard - TBA </h3>
     <p> Analysis on crime. </p>
     <p>
         <a href="https://github.com/auds-hobbies/dashboard_crime_geo_visualization" target="_blank"> GitHub</a>,
@@ -197,7 +176,7 @@ https://youtu.be/b9DnhYVYWpg
 
 <br><br><br><br><br> <br><br><br><br><br>
 <section> 
-   <h3> Lean Manufacturing (Process Improvement) - Power BI Dashboard </h3>
+   <h3> Lean Manufacturing (Process Improvement) - Power BI Dashboard - TBA </h3>
     <p> Analysis on manufacturing process for improvement purposes. </p>
     <p>
         <a href="https://github.com/auds-hobbies/p2_real_estate" target="_blank"> GitHub</a>,
