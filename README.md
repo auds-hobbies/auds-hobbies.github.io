@@ -200,7 +200,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
    <h3> Lean Manufacturing (Process Improvement) - Power BI Dashboard - TBA </h3>
     <p> Analysis on manufacturing process for improvement purposes. </p>
     <p>
-        <a href="https://github.com/auds-hobbies/p2_real_estate" target="_blank"> GitHub</a>,
+        <a href="https://github.com/auds-hobbies/p3_manufacturing/blob/main/README.md"_blank"> GitHub</a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
         <a href="https://www.youtube.com/@auds2000pro/videos" target="_blank"> YouTube</a>
     </p>
