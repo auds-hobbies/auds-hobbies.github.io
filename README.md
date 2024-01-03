@@ -135,11 +135,6 @@ Herewith a selection of my project accomplished with tools such as python, Power
         <a href="https://www.youtube.com/watch?v=AEtLjjGaEUI&t=87s"> YouTube (Power BI Dashboard)</a>,
         <a href="https://github.com/auds-hobbies/random/blob/main/github_call_centre_powerbi_dashboard_presentation.pdf"> Report (PowerPoint/PDF)</a>
 </p>
-<div style="width: 350 px; float: left; height: 350 px;">
-    <!-- Content for the blue div goes here -->
-    <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page1.png?raw=true" width="350" />
-    
-</div> 
 
 <div style="width: 350 px; float: left; height: 350 px;">
     <!-- Content for the blue div goes here -->
