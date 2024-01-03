@@ -146,7 +146,7 @@ Herewith a selection of my project accomplished with tools such as python, Power
      <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page1.png?raw=true"  width = "250"  />
     <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page2.png?raw=true"  width = "250"  />
      <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page6.png?raw=true"  width = "250"  />
-    <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page6.png?raw=true"  width = "250"  />
+    <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/zzz_github_crime_report_page1.png?raw=true"  width = "250"  />
 </div>
 
 </section> 
