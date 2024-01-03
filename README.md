@@ -113,10 +113,34 @@ Herewith a selection of my project accomplished with tools such as python, Power
 <br>
 <ul>
     <li> <b>(Health):</b> Health Risk Predictor (web app & Power BI dashboard)   </li>  
-    <li> <b>(Services - Operations):</b> Call Center Data Analysis    </li>  
+    <li> <b>(Services - Operations):</b> Call Center Data Analysis (Power BI dashboard)    </li>  
+    <li> <b>(Government - Crime):</b> Call Center Data Analysis (Power BI dashboard)    </li>  
     <li> <b>(Real Estate):</b> Real Estate Analysis   </li>  
     <li> <b>(Manufacturing / Lean Process Improvement):</b> Manufacturing Process Analysis - Defects Analysis - Rolled Throughput Determination   </li>
 </ul>
+
+
+<br><br> <br><br><br><br><br>
+<section>
+<h3> Crime Analysis (Power BI Dashboard) </h3> 
+<p> Analyses on crime incidents in the San Francisco. </p> 
+<ul>
+        <li> <b>Data:</b> open source SFO crime data; shape files on SFO districts  </li>
+        <li> <b>Statistical Analysis & Hypothesis Tests: </b>Summary statistics, e.g., mean; correlation with spearman; and hypothesis testing   </li>
+        <li> <b>Approach: </b>Processed and merged data, created new features with Python programming language.Calculated KPIs/metrics with Power BI DAX.     </li>
+        <li> <b>Outcomes:</b> Power BI dashboard    </li>
+</ul>
+<p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
+        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_center_analysis_01.py" target="_blank"> Python Code </a>,
+        <a href="https://www.youtube.com/watch?v=AEtLjjGaEUI&t=87s"> YouTube (Power BI Dashboard)</a>,
+        <a href="https://github.com/auds-hobbies/random/blob/main/github_call_centre_powerbi_dashboard_presentation.pdf"> Report (PowerPoint/PDF)</a>
+</p>
+<div style="width: 350 px; float: left; height: 350 px;">
+    <!-- Content for the blue div goes here -->
+    <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page1.png?raw=true" width="350" />
+    
+</div>
+</section> 
 
 
 <br><br> <br><br><br><br><br>
